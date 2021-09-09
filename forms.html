@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Registration page</title>
+        <style>
+            .container{
+                border: 4px solid cadetblue;
+                width: 400px;
+                margin: auto;
+
+
+            }
+            .formcontent{
+                padding: 33px;
+               
+                line-height: 1.8;
+            }
+            h3{
+                text-align: center;
+            }
+            .button{
+                margin-left: 50px;
+            }
+            .image{
+                align-items: center;
+                display: flex;
+                
+                justify-content: center;
+            }
+            .textarea{
+                border-color: rgb(7, 106, 187);
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            
+            <h3>Registration Page</h3>
+            <div class="image">
+                <img width="50px" src="https://w7.pngwing.com/pngs/924/165/png-transparent-note-and-pencil-illustration-computer-icons-icon-design-symbol-registration-miscellaneous-angle-text.png" alt="Error in loading"/>
+            </div>
+
+            <div>
+                <form class="formcontent">
+                    <label> First Name :</label>
+                    <input class="textarea" type="text" name="firstname" placeholder="first name"/>
+    
+                   <br>
+                   <label>Last Name :</label>
+                    <input class="textarea" type="text" name="lastname" placeholder="last Name"/>
+                    <br>
+    
+                    <label>Phone No. :</label>
+                    <input class="textarea" type="text" name="phone" placeholder="phone number"/>
+                    <br>
+    
+                    <label>Gender :</label>
+                    <br>
+    
+                    <input   type="radio" name="gender"/>Male 
+                    <input  type="radio" name="gender"/>Female 
+                    <input   type="radio" name="gender"/>Other
+                    <br>
+    
+    
+                    <label>Hobbies: </label>
+                    <br>
+                    <input  type="checkbox" name="hobby"/> Cricket 
+                    <input  type="checkbox" name="hobby"/>  programming
+                    <input  type="checkbox" name="hobby"/>Reading Novel
+    
+                    <label>Address: </label>
+                    <input class="textarea" type="text" name="address" placeholder="enter address"/>
+                    <br>
+    
+                    <label>  Any help write here </label><br>   
+                    <textarea class="textarea" cols="40" rows="5" placeholder="for ex: not able to write name" ></textarea>
+    
+                    <input class="button" type="submit" value="Submit"/>
+                    <input   class="button"type="reset" value="Reset"/>
+
+    
+                </form>
+            </div>
+             
+             
+
+            
+        </div>
+    </body>
+
+
+
+</html>
