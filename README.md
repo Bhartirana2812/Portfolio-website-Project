@@ -19,18 +19,18 @@
 This is a website which display about you,and about your skills ,this design will help you to impress your interviewers.
 <h2>Main/Head page<h2>
   
-  ![Main/Head page](/Projectimages/Screenshot(14).png)
+  ![Main/Head page](/Projectimages/heading.png)
 <h2>Skills Page<h2>
   
-   ![Skills Page](/Projectimages/Screenshot(15).png)
+   ![Skills Page](/Projectimages/skills.png)
   
 <h2>Display Project page<h2>
   
-   ![Display Project page](/Projectimages/Screenshot(16).png)
+   ![Display Project page](/Projectimages/projects.png)
   
 <h2>Your Contact Detail Page<h2>
   
-   ![Your Contact Detail Page](/Projectimages/Screenshot(17).png)  
+   ![Your Contact Detail Page](/Projectimages/contact.png)  
   
 <h1>🌟 Live link</h1>
   
