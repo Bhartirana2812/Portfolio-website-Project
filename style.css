@@ -180,8 +180,8 @@ li{
     width: 500px;
     height: 400px;
     background: rgb(199, 216, 226);
-    top: -70%;
-    right:-40%;
+    top: -40%;
+    right:-30%;
     position: absolute;
     border-radius: 50%;
     z-index: -1;
@@ -192,8 +192,8 @@ h3{color: var(--grey);
 }
 .title{
    text-align: center;
-    /* margin-bottom: 60px;
-    margin-top: -80px; */
+    margin-bottom: 60px;
+    margin-top: 80px;
 }
 .grid-wrapper{
     
@@ -302,17 +302,17 @@ h3{color: var(--grey);
 }
 /* Contact Css */
 .mail{
-    width: 20px;
+    width: 60px;
     margin-top: 18px;
-    /* margin-right: 5px; */
+    /* margin-right: 90px; */
+}
+.contactpart{
+    margin-top: 170px;
 }
 .id .mail{
     display: block;
     float: left;
     margin-top: 40px;
-}
-.contactpart{
-    margin-top: 170px;
 }
 .contactpart .container{
     text-align: center;
