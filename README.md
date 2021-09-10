@@ -16,12 +16,22 @@ This is stuff which i build during my learning Phase ..
     </ul>
 
     <h2>If you want more unique and decent ideas about design click on below link </h2>
+    <ul>
+    <li>
+    ::marker
 
     <a href="https://dribbble.com/tags/portfolio#readme">Click here</a>
+    </li>
+    </ul>
 
     <h2> click below to  get more idea about basics of html and css </h2>
+    <ul>
+    <li>
+    ::marker
+    
 
     <a href=" https://developer.mozilla.org/en-US/docs/Web/CSS#readme"> Click here For Css</a><br>
 
     <a href=" https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics#readme"> Click here For Html</a>
+    </li>
 
