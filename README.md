@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Bhartirana2812/Portfolio-website-Project">
-    <img src="Projectimages/https://github.com/Bhartirana2812/Portfolio-website-Project/blob/master/Projectimages/SeekPng.com_portfolio-png_1112824.png" alt="Logo" width="200" height="50">
+    <img src="/Projectimages/SeekPng.com_portfolio-png_1112824.png" alt="Logo" width="200" height="50">
   </a>
 
   <p align="center">
