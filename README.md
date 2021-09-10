@@ -1,37 +1,59 @@
 # Web-development-project
-This is stuff which i build during my learning Phase ..
-  <h3>
-       <strong> About Portfolio  Project:</strong> 
-    </h3>
-    <p  style="font-size: 20px;"> Here is the  code of design of Your portfolio Website</p>
-    <p style="font-size: 20px;"> You can get the code from here Inspect it by right clicking on website and see the exact positions of everything</p>
-    <ul>
-        <li class="firstlist">
-            Benefit you got from this code is:
-            <ul>
-            <li> <strong>First</strong> It is purely made with base concepts of HTML/CSS</li>
-            <li>  <strong>Second</strong> Responsive as well</li>
-        </ul>
-        </li>
-    </ul>
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/Bhartirana2812/Portfolio-website-Project">
+    <img src="Projectimages/https://github.com/Bhartirana2812/Portfolio-website-Project/blob/master/Projectimages/SeekPng.com_portfolio-png_1112824.png" alt="Logo" width="200" height="50">
+  </a>
 
-    <h2>If you want more unique and decent ideas about design click on below link </h2>
-    <ul>
-    <li>
-    ::marker
+  <p align="center">
+    A Website where <code> Developers </code> can show <code> their skills with Creativity </code>
+    <br />
+  </p>
+</p>
 
-    <a href="https://dribbble.com/tags/portfolio#readme">Click here</a>
-    </li>
-    </ul>
 
-    <h2> click below to  get more idea about basics of html and css </h2>
-    <ul>
-    <li>
-    ::marker
+<!-- ABOUT THE PROJECT -->
+<h1>🧐 Why this Project</h1>
+<br />
+This is a website which display about you,and about your skills ,this design will help you to impress your interviewers.
+<h2>Main/Head page<h2>
+  
+  ![Main/Head page](/Projectimages/Screenshot(14).png)
+<h2>Skills Page<h2>
+  
+   ![Skills Page](/Projectimages/Screenshot(15).png)
+  
+<h2>Display Project page<h2>
+  
+   ![Display Project page](/Projectimages/Screenshot(16).png)
+  
+<h2>Your Contact Detail Page<h2>
+  
+   ![Your Contact Detail Page](/Projectimages/Screenshot(17).png)  
+  
+<h1>🌟 Live link</h1>
+  
+  [See live project here](https://bharti-portfolio.netlify.app/)
+  
+<h1>👨‍💻 Tech stack</h1>
+
+I made this projects using new tech stacks
+* [HTML](https://html.com/)
+* [CSS](https://css-tricks.com/)
+
+
+
+<h1>✍️ Contributing</h1>
+Interested in contributing to this project? Thanks so much for your interest! We are always looking for improvements to the project and contributions from open-source developers are greatly appreciated.
+
+
+<h1>⚠️ License</h1>
+The project is free and open-source software licensed under the GNU General Public License v3.0. and distributed under Creative Commons license (CC BY-SA 4.0 International).
+
+<br />
+
+<h1>💛</h1>
+
+
     
-
-    <a href=" https://developer.mozilla.org/en-US/docs/Web/CSS#readme"> Click here For Css</a><br>
-
-    <a href=" https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics#readme"> Click here For Html</a>
-    </li>
-
